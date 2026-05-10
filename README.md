@@ -18,9 +18,8 @@ https://music-analysis-system-bcznrxuscos6enejhrmh4s.streamlit.app/
 ## 🐱 GATO AI Game
 Hand gesture controlled AI game built using Python, OpenCV, MediaPipe, and Pygame.
 
-🔗 Live Demo:
-https://replit.com/@leonamendes10/gato-ai-game
-
+🔗 :
+https://github.com/Leona2310/gato-ai-game
 ---
 ## 📱 NextStop Mobile App
 React Native + Expo application with Firebase backend integration.
